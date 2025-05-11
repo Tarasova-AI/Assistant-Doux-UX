@@ -1,4 +1,4 @@
-# Understanding the User Under Stress
+# Understanding the user under stress
 *Mapping pain points to UX decisions in pediatric emergency situations*
 
 ---
