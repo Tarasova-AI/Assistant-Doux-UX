@@ -1,4 +1,4 @@
-# The Interactive Journey: Logic, Safeguards, and Stress-Aware Design
+# The interactive journey: logic, safeguards, and stress-aware design
 *How the prototype guides parents with clarity and care*
 
 ---
