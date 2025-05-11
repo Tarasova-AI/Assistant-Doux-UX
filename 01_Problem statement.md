@@ -1,4 +1,4 @@
-# The Problem: Pediatric Emergency Overload
+# The problem: pediatric emergency overload
 *A context of system pressure, user confusion, and communication breakdown*
 
 ---
@@ -15,7 +15,7 @@ Medical teams must not only handle critical emergencies, but also support overwh
 
 ---
 
-### 👪 The Parent's Experience
+### 👪 The parent's experience
 
 Many parents:
 - Feel lost and anxious
