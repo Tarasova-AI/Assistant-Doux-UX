@@ -3,6 +3,14 @@
 
 ---
 
+### 🔗 Test the prototype
+
+> ▶️ [Try the interactive version here (FR)](https://tally.so/r/woxvze)
+
+Multilingual access via built-in language selector (FR / EN / RU).
+
+---
+
 ### 🔄 Overall flow logic
 
 The prototype uses a conditional logic flow (if/then) designed in Tally. It walks users step-by-step while protecting against drop-off, stress-induced error, and cognitive overload.
